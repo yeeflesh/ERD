@@ -1,0 +1,10 @@
+預估開發時間 : 25 Hr
+IDE : Visual studio 2013 C++
+應用程式類型 : Win32 Console application
+UML Tool : Visual Paradigm Community Edition
+
+心得：
+最終時間是31.1小時，比預計多花了一些時間，比起平均20小時還超出了許多。
+而我在物件圖上面花了許多時間，除了第一次畫之外，在Coding時期也不斷塗塗改改。
+另外C++也是第一次寫成OO的形式，以往都是用Java，許多語法跟用法都不太一樣，
+再加上ERD的部分也忘了差不多了，花了點時間在查資料，希望下次可以在平均撰寫時間內完成。
